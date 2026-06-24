@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-24",
+  "policies": [
+    {
+      "id": "intl-001",
+      "title": "European Technological Sovereignty Package",
+      "publishTime": "2026-06-03 10:00",
+      "country": "欧盟",
+      "publishUnit": "European Commission",
+      "requirements": "该计划包含四项核心倡议：1) 芯片法案2.0（Chips Act 2.0）：加强欧洲半导体生态系统，目标到2035年投资1200亿欧元；2) 云与AI发展法案（CADA）：目标5-7年内将欧盟数据中心容量增加三倍，引入四级云主权保障体系；3) 欧盟开源战略：目标到2030年实现3000万开源协作工具活跃用户；4) 能源领域数字化与AI战略路线图：确保数据中心融入欧盟能源系统，加速部署数字和AI解决方案，建设能源领域主权安全AI模型。",
+      "source": "https://commission.europa.eu/news-and-media/news/strengthening-europes-tech-sovereignty-2026-06-03_en",
+      "sourceName": "European Commission",
+      "keywords": ["Tech Sovereignty", "Chips Act", "Cloud", "AI", "Open Source"]
+    },
+    {
+      "id": "intl-002",
+      "title": "AI.grids Project and Data Centre Sustainability Flagship",
+      "publishTime": "2026-06-04 14:00",
+      "country": "欧盟",
+      "publishUnit": "European Commission - DG Energy",
+      "requirements": "欧盟启动两项旗舰倡议：1) 数据中心运营商、能源部门和公共机构签署意向声明，确保数据中心可持续融入欧盟能源系统；2) 启动'AI.grids'项目，与48家合作伙伴（包括电网运营商和研究机构）共同开发欧盟主权AI模型，改善能源电网管理和规划。",
+      "source": "https://energy.ec.europa.eu/news/flagship-projects-ai-grids-and-data-centre-sustainability-2026-06-04_en",
+      "sourceName": "European Commission DG Energy",
+      "keywords": ["AI", "Data Centre", "Energy", "Sustainability", "Smart Grid"]
+    },
+    {
+      "id": "intl-003",
+      "title": "Horizon Europe Mission on Climate-Neutral and Smart Cities",
+      "publishTime": "2026-06-01 09:00",
+      "country": "欧盟",
+      "publishUnit": "European Commission - DG Research and Innovation",
+      "requirements": "资助在112个任务城市中测试和部署可扩展的能源效率、零排放出行和数字城市规划解决方案的综合试点项目。单个项目资助金额500万-1200万欧元。重点领域包括能源系统、出行、建筑、废弃物循环和数字基础设施。",
+      "source": "https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe/climate-neutral-and-smart-cities_en",
+      "sourceName": "European Commission Research & Innovation",
+      "keywords": ["Climate Neutral", "Smart Cities", "Energy Efficiency", "Digital Planning", "Zero Emission"]
+    },
+    {
+      "id": "intl-004",
+      "title": "Automated Permitting Systems Demonstration",
+      "publishTime": "2026-06-11 11:00",
+      "country": "美国",
+      "publishUnit": "U.S. Department of Housing and Urban Development (HUD)",
+      "requirements": "美国住房和城市发展部（HUD）提供最高300万美元资助，用于支持州和地方政府部署自动化建筑许可和建筑规范系统。单个城市最高可获得150万美元，最低30万美元。HUD将与各级政府合作测试新的自动化审批工具，旨在提高审批速度、降低成本，促进住房可负担性。申请截止日期为2026年7月13日。",
+      "source": "https://www.hudexchange.info/news/hud-announces-3-million-in-funding-to-deploy-automated-permitting-systems-to-increase-housing-construction-speed/",
+      "sourceName": "HUD Exchange",
+      "keywords": ["Automated Permitting", "Housing", "Smart Government", "Digital Transformation"]
+    },
+    {
+      "id": "intl-005",
+      "title": "Robotics and AI for Housing Construction Demonstration",
+      "publishTime": "2026-06-15 10:00",
+      "country": "美国",
+      "publishUnit": "U.S. Department of Housing and Urban Development (HUD)",
+      "requirements": "HUD推出'利用机器人和AI技术进行住宅建设的大规模市场解决方案'示范项目，提供最高1000万美元，支持在工厂预制住房和场外制造中展示先进机器人与AI技术。目标是评估机器人与AI制造能否缩短建造时间和降低成本。",
+      "source": "https://www.huduser.gov/portal/ota/funding-opportunities.html",
+      "sourceName": "HUD User Portal",
+      "keywords": ["Robotics", "AI", "Housing Construction", "Smart Manufacturing"]
+    },
+    {
+      "id": "intl-006",
+      "title": "Autonomous Vehicles Legal and Regulatory Framework Public Consultation",
+      "publishTime": "2026-06-13 09:00",
+      "country": "新加坡",
+      "publishUnit": "Ministry of Transport, Singapore",
+      "requirements": "新加坡交通部发布自动驾驶车辆法律与监管框架公众咨询，意见提交截止日期为2026年6月30日。同时宣布从2026年起在公共交通网络中试行自动驾驶车辆：在榜鹅（Punggol）等HDB社区推出短途固定路线自动驾驶接驳服务；2026年下半年在滨海湾（Marina Bay）和纬壹（one-north）试点自动驾驶公交服务；大士港（Tuas Port）将建成全球最大全自动化集装箱码头；樟宜机场已部署自动驾驶行李牵引车。",
+      "source": "https://www.mot.gov.sg/what-we-do/automated-autonomous-vehicles/",
+      "sourceName": "Singapore Ministry of Transport",
+      "keywords": ["Autonomous Vehicles", "Smart Transport", "Public Consultation", "Smart Port"]
+    },
+    {
+      "id": "intl-007",
+      "title": "World Cities Summit 2026 - Mayor's Forum",
+      "publishTime": "2026-06-14 10:00",
+      "country": "新加坡",
+      "publishUnit": "Ministry of National Development, Singapore",
+      "requirements": "新加坡国家发展部长在开幕式上阐述智慧城市发展四大主题：1) 可负担住房：新加坡居民住房自有率超90%，'乐龄新加坡'计划升级社区适老化设施；2) 城市水资源韧性：四大国家水龙头战略（本地集水、进口水、新生水、淡化海水），长岛项目保护东海岸；3) 城市能源转型：平衡可持续性、能源安全与可负担性；4) 高效市政服务：跨机构数据共享、机器人与AI巡检、地下空间数字孪生建设。",
+      "source": "https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-minister-chee-hong-tat-at-world-cities-summit-wcs-2026-mayors-forum-opening-address",
+      "sourceName": "Singapore MND",
+      "keywords": ["Smart City", "Water Resilience", "Energy Transition", "Digital Twin", "Aging Friendly"]
+    },
+    {
+      "id": "intl-008",
+      "title": "Yokohama Digital Waste Management System",
+      "publishTime": "2026-04-01 08:00",
+      "country": "日本",
+      "publishUnit": "Yokohama City Government",
+      "requirements": "横滨市在约1200个市相关设施全面启动数字化废弃物管理系统。新系统集中管理此前通过纸质记录和电子表格分散管理的废弃物数据，每年数字化约40万个行政流程。试运行显示废弃物相关行政工作时间减少约70%。数据将与日本电子联单系统联动，实现从排放到最终处理的无缝追踪。",
+      "source": "https://businessyokohama.com/blog/2026/05/12/yokohama-digitizes-waste-management-across-1200-public-facilities/",
+      "sourceName": "Yokohama Business Bureau",
+      "keywords": ["Digital Waste Management", "Smart City", "Administrative Efficiency", "Data Tracking"]
+    }
+  ],
+  "statistics": {
+    "keywords": [
+      {"word": "AI", "count": 20},
+      {"word": "Smart City", "count": 16},
+      {"word": "Digital", "count": 14},
+      {"word": "Data Centre", "count": 10},
+      {"word": "Energy", "count": 9},
+      {"word": "Autonomous", "count": 7},
+      {"word": "Sustainability", "count": 6},
+      {"word": "Robotics", "count": 5},
+      {"word": "Climate Neutral", "count": 5},
+      {"word": "Digital Twin", "count": 4}
+    ],
+    "hotTopics": [
+      {"topic": "AI & Smart Grid", "count": 14},
+      {"topic": "Autonomous Transport", "count": 11},
+      {"topic": "Data Centre Sustainability", "count": 10},
+      {"topic": "Digital Government", "count": 9},
+      {"topic": "Climate Neutral Cities", "count": 8},
+      {"topic": "Smart Construction", "count": 7}
+    ],
+    "trendData": [
+      {"date": "2026-01", "count": 4},
+      {"date": "2026-02", "count": 3},
+      {"date": "2026-03", "count": 5},
+      {"date": "2026-04", "count": 4},
+      {"date": "2026-05", "count": 6},
+      {"date": "2026-06", "count": 10}
+    ]
+  }
+}
