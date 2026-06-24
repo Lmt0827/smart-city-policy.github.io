@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
 async function loadData(date) {
   try {
     showLoading();
-    const response = await fetch(`data/domestic/${date}.json`);
+    const response = await fetch(`data/domestic/${date}.json?v=${Date.now()}`);
     if (!response.ok) {
       throw new Error('No data available for this date');
     }
