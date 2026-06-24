@@ -4,17 +4,7 @@ let charts = {};
 
 // 初始化
 document.addEventListener('DOMContentLoaded', function() {
-  const datePicker = document.getElementById('datePicker');
-  const today = new Date().toISOString().split('T')[0];
-  datePicker.value = today;
-  datePicker.max = today;
-
-  loadData(today);
-
-  datePicker.addEventListener('change', function() {
-    loadData(this.value);
-  });
-
+  loadData('2026-06-24');
   document.getElementById('exportPdf').addEventListener('click', exportToPDF);
 });
 
@@ -304,7 +294,7 @@ function exportToPDF() {
   const element = document.body;
   const opt = {
     margin: [10, 10, 10, 10],
-    filename: `智慧城市政策分析报告-国外-${document.getElementById('datePicker').value}.pdf`,
+    filename: `智慧城市政策分析报告-国外-2026-06-24.pdf`,
     image: { type: 'jpeg', quality: 0.98 },
     html2canvas: {
       scale: 2,
